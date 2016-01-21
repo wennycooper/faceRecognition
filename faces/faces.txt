@@ -1,0 +1,7 @@
+./faces/IMAG0824.jpg;1
+./faces/IMAG0817.jpg;1
+./faces/IMAG0818.jpg;2
+./faces/IMAG0819.jpg;2
+./faces/IMAG0822.jpg;4
+./faces/IMAG0823.jpg;4
+./faces/IMAG0816.jpg;1
