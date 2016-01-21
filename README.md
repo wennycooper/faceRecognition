@@ -8,11 +8,10 @@ This is a sample code to use openCV FaceRecognizer for face recognition.
     $ ./facerec_demo ./faces/faces.txt
     
 # Faces
-You will need to put your training images into ~/faces, and modify ~/faces/faces.txt
-## Plz check ~/faces/faces.txt for the format
-### path;label
-## One line for one training images
-## The last line is for the test image. it will not be trained
+* You will need to put your training images into ~/faces, and modify ~/faces/faces.txt
+* Plz check ~/faces/faces.txt for the format (path;label)
+* One line for one training images
+* The last line is for the test image. it will not be trained
 
 # Reference
 * http://blog.csdn.net/abcd1992719g/article/details/24008513
