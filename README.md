@@ -5,8 +5,10 @@ This is a sample code to use openCV FaceRecognizer for face recognition.
     $ git clone this project
     $ cd faceRecognition
     $ g++ -o facerec_demo ./facerec_demo.cpp ``pkg-config --cflags --libs opencv``
-
+    $ ./facerec_demo ./faces/faces.txt
+    
 # Faces
+## You will need to put your training images into ~/faces, and modify ~/faces/faces.txt
 ## Plz check ~/faces/faces.txt for the format
 ### path;label
 ## One line for one training images
